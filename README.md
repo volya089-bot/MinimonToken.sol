@@ -1,0 +1,1 @@
+# MinimonToken.sol
